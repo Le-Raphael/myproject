@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Francois+One&family=Heebo:wght@300&display=swap");
+
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/container.css");
+@import url("components/footer.css");
+@import url("components/logo.css");
+
+body {
+	font-family: 'Heebo', sans-serif;
+	font-size: 20px;
+	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Francois One', sans-serif;
+	margin-top: 85px;
+	margin-bottom: 30px;
+}
+
+a {
+	text-decoration: none;
+}
+
+h2 {
+	color: #2A9D8F;
+}
+
+.color-white {
+	color: white;
+}
+
+#margin-smallw {
+	margin-top: 15px;
+	color: white;
+}
+#margin-small {
+	margin-top: 15px;
+}

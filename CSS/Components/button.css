@@ -1,0 +1,11 @@
+.btn {
+	background-color: #FFE68B;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #2A9D8F;
+	font-family: 'Francois One', sans-serif;
+}
+
+.btn:hover {
+	background: #e9dbc9;
+}

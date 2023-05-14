@@ -1,0 +1,21 @@
+.footer {
+	background-color: #2A9D8F;
+	padding: 35px;
+	text-align: center;
+}
+.list-in-line li{
+	display: inline;
+	padding: 10px;
+}
+
+.list-in-line:hover li{
+	color: white;
+}
+
+.link-grow {
+  transition: transform 0.2s 
+}
+
+.link-grow:hover {
+  transform: scale(1.2;
+}
